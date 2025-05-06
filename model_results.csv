@@ -1,0 +1,24 @@
+Model_Type,Model_Family,Model,Num_Params,Score
+xgboost,xgboost,kmer_6,400,0.007939532520325204
+xgboost,xgboost,kmer_4,400,0.09036458333333333
+xgboost,xgboost,kmer_5,400,0.019675925925925927
+xgboost,xgboost,kmer_3,800,0.13411458333333331
+AA Models,ESM2,esm2_t6_8M,8000000,0.437
+NA Models,Nucleotide_Transformer,NT_v2-50m_Multispecies,55000000,0.07
+NA Models,Nucleotide_Transformer,NT_v2-100m_Multispecies,98000000,0.086
+AA Models,Progen,progen2-small,150000000,0.437
+AA Models,ESM2,esm2_t30_150M,150000000,0.611
+NA Models,Nucleotide_Transformer,NT_v2-250m_Multispecies,235000000,0.11
+AA Models,ESM2,esm2_t12_35M,350000000,0.554
+NA Models,Nucleotide_Transformer,NT_v2-500m_Multispecies,498000000,0.095
+AA Models,ESM2,esm2_t33_650M,650000000,0.637
+AA Models,Progen,progen2-medium,765000000,0.5
+AA Models,ProtTrans,prot_t5_xlbfd,1200000000,0.565
+AA Models,ProtTrans,prot_t5_xluniref50,1200000000,0.629
+AA Models,ESM3,esm3_3B,1400000000,0.581
+NA Models,Nucleotide_Transformer,NT_2.5b_Multispecies,2500000000,0.131
+AA Models,Progen,progen2-large,2700000000,0.497
+AA Models,ESM2,esm2_t36_3B,3000000000,0.68
+AA Models,Progen,progen2-xlarge,6400000000,0.549
+NA Models,Evo,evo-1_8k-base,6500000000,0.012
+NA Models,Evo,evo-1_131k-base,6500000000,0.016
