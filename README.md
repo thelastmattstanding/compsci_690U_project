@@ -1,1 +1,1 @@
-# compsci_690U_project
+# Enzyme Classification with XGBoost - A Comparitive Study on the DGEB Benchmark Dataset
